@@ -20,6 +20,7 @@ chmod +x vivt.py
 **4.**
 ```sh
 mv vivt.py ~/bin/vivt
+mv ~/vivtfiles ~/bin/
 ```
 
 To make sure `bin` exists within your **PATH**, run:
