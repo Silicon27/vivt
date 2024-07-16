@@ -4,20 +4,20 @@
 
 First, clone the `vivt` repository from GitHub:
 
-**1.**
+**1.** clone and go to the vivt directory
 ```sh
 git clone https://github.com/Silicon27/vivt.git
 cd vivt
 ```
-**2.**
+**2.** install all dependencies 
 ```sh
 pip install -r requirements.txt
 ```
-**3.**
+**3.** make vivt an executable
 ```sh
 chmod +x vivt.py
 ```
-**4.**
+**4.** move vivt to the users bin
 ```sh
 mv vivt.py ~/bin/vivt
 mv ~/vivtfiles ~/bin/
