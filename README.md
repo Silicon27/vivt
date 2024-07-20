@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/badge/Discord-Dark blue?style=flat&logo=discord&link=https://discord.gg/dDDrjSuxcg)](https://discord.gg/dDDrjSuxcg)
+[![Discord](https://img.shields.io/badge/Discord-Dark blue?style=flat-square&logo=discord&link=https://discord.gg/dDDrjSuxcg)](https://discord.gg/dDDrjSuxcg)
 
 # Vivt CLI Tool Setup Guide
 
