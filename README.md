@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Dark blue?style=flat&logo=discord&link=https://discord.gg/dDDrjSuxcg)](https://discord.gg/dDDrjSuxcg)
+
 # Vivt CLI Tool Setup Guide
 
 ## Clone the Repository
